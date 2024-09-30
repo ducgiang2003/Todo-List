@@ -1,0 +1,11 @@
+@host = localhost:8080
+
+
+POST http://{{host}/todo}/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "id":"12",
+    "name":"something",
+    "description":"okthen"
+}
