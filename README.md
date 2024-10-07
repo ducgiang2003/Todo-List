@@ -1,6 +1,6 @@
 
 # Todo_List v1.0 
-This is my first project when I'm learning Backend with Golang .
+This is my first project when I'm learning Backend with Golang following  https://roadmap.sh/projects/todo-list-api
 - Techlonogy : Gin Framework , Gorm ,RESTful API ,JSON
 The project can :
 - Migrating struct into table in database 
